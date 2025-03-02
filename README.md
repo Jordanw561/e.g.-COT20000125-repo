@@ -8,3 +8,9 @@ $ eg. git clone https://github.com/abitj/COT20000125.git
 $ cd <e.g., COT20000125-repo>
 $ eg. cd ~/Downloads/COT20000125
 my_set = {333, 22, 1}
+$ git status
+$ git add README.md
+$ git add Set with Python.ipynb
+$ git commit -m "I made changes to the two files"
+$ git pull
+$ git push
