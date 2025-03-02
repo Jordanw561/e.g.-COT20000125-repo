@@ -7,3 +7,4 @@ $ git clone <gh repo clone Jordanw561/e.g.-COT20000125-repo>
 $ eg. git clone https://github.com/abitj/COT20000125.git                        
 $ cd <e.g., COT20000125-repo>
 $ eg. cd ~/Downloads/COT20000125
+my_set = {333, 22, 1}
